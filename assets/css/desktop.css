@@ -27,6 +27,10 @@
     width: 30rem;
   }
 
+  #decryption_output{
+    overflow-x:hidden;
+  }
+
   .svg_wrapper_header{
     width: 22rem;
     height: 7rem;
